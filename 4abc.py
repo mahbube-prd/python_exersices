@@ -29,3 +29,5 @@ for item in range(n,1,-1):
     for star in range(n,item,-1):
         print("*",end="")
     print()
+
+# gfhfgh
